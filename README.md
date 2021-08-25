@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Kira8600
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, C, C#, JavaScript
+
